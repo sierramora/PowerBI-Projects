@@ -1,0 +1,1 @@
+Hi! I am Sierra Mora and am about to complete a Data Analytics course with Springboard. Included in this repository are my finished projects on PowerBI. Each project had a large dataset that I have analyzed and presented to established Fortune 500 Data Analysts# PowerBI-Projects
